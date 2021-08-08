@@ -16,5 +16,6 @@
         <module>project2-member</module>
         <module>project2-order</module>
         <module>project2-ware</module>
+
     </modules>
 </project>
